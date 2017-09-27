@@ -1,1 +1,1 @@
-# spring_mybatis_netty
+#这是一个将Spring+Mybatis+Netty三个框架整合起来的项目
