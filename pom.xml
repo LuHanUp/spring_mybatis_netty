@@ -3,7 +3,7 @@
   <groupId>com.luhan</groupId>
   <artifactId>spring_mybatis_netty</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>luHan</name>
+  <name>spring_mybaits_netty</name>
   <description>这个项目是整合了Spring+Mybatis+Netty</description>
   
   <properties>
