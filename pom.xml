@@ -17,7 +17,7 @@
 		<slf4j.version>1.7.7</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<!-- jackJson版本号 -->
-		<jackJson.version>2.9.9</jackJson.version>
+		<jackJson.version>2.10.0</jackJson.version>
 		<!-- Servlet API版本号 -->
 		<servlet_API.version>1.0</servlet_API.version>
 	</properties>
