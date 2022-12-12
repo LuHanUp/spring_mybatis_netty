@@ -8,7 +8,7 @@
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<netty-version>4.1.1.Final</netty-version>
+		<netty-version>4.1.86.Final</netty-version>
 		<!-- spring版本号 -->
 		<spring.version>4.3.18.RELEASE</spring.version>
 		<!-- mybatis版本号 -->
